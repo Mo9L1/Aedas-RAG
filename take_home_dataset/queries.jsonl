@@ -1,0 +1,4 @@
+{"query": "What is the required fire rating for residential buildings?", "user_groups": ["design"], "expected_behavior": "answer_with_citation"}
+{"query": "Summarize the legacy project archive", "user_groups": ["design"], "expected_behavior": "refuse_expired"}
+{"query": "What were the key points discussed in the Project Beta meeting?", "user_groups": ["design"], "expected_behavior": "refuse_no_access"}
+{"query": "Which fire safety guideline is the latest version?", "user_groups": ["all"], "expected_behavior": "answer_with_citation"}

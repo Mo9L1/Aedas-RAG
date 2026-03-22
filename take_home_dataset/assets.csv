@@ -1,0 +1,6 @@
+asset_id,source_path,doc_type,version,updated_at,acl_groups,expiry
+A1,docs/project_alpha.txt,project,1,2025-01-01,"design,pm",2027-01-01
+A2,docs/meeting_notes_beta.txt,meeting,1,2025-02-10,pm,2026-12-31
+A3,docs/guideline_v1.txt,guideline,1,2023-01-01,all,2025-12-31
+A4,docs/guideline_v2.txt,guideline,2,2025-01-01,all,2027-12-31
+A5,docs/expired_doc.txt,project,1,2022-01-01,design,2023-01-01
