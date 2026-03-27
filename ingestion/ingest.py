@@ -6,7 +6,7 @@ import pandas as pd
 from datetime import datetime
 from openai import OpenAI
 
-API_KEY = "sk-ktaiiqxmiepstghsghnmejwvnrowoqhsfawgpikrounftvxw"
+API_KEY = "sk-ktaiiqxmiepstghsghnmejwvn"
 BASE_URL = "https://api.siliconflow.cn/v1"
 EMBEDDING_MODEL = "Pro/BAAI/bge-m3"
 
